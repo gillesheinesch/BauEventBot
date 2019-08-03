@@ -1,0 +1,7 @@
+{
+    "ownerid": "Owner ID",
+    "modrolename": "Example: Moderator",
+    "adminrolename": "Example: BauTeam Manager",
+	"token": "Discord Super Secret Token",
+    "prefix": "?"
+}
