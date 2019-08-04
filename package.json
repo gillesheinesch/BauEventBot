@@ -14,7 +14,7 @@
     "moment-duration-format": "^2.1.1",
     "ping": "^0.2.2",
     "request": "^2.83.0",
-    "sequelize": "^3.30.4",
+    "sequelize": "^5.3.0",
     "sqlite3": "^3.1.8",
     "timers": "^0.1.1",
     "ytdl-core": "^0.13.1"
